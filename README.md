@@ -1,2 +1,13 @@
 # DataAnalystDashboards
 This repository contains my Data Analytics portfolio projects, on Power BI, Tableau, Excel platforms
+
+# Project 1 - MA Functional Studio Ltd.
+
+### About
+In this folder I will present a project that I did for a small boutique training studio business.
+
+### Goals
+* Simulation of geographic distribution in order to examine the most active district.
+* Data segmentation according to trainee or trainer data.
+* Business strategy analysis and drawing economic conclusions.
+* KPI - monthly revenue and trend improvement.
