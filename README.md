@@ -1,7 +1,7 @@
 # DataAnalystDashboards
 This repository contains my Data Analytics portfolio projects, on Power BI, Tableau, Excel platforms.
 
-## <span style="color:green">[Project 1 - MA Functional Studio Ltd.](https://github.com/adiredri/DataAnalystDashboards/blob/main/MA-Functional-Studio/MA-Dashboard1.png "Project 1 - MA Functional Studio Ltd.")</span>
+## <span style="green">[Project 1 - MA Functional Studio Ltd.](https://github.com/adiredri/DataAnalystDashboards/blob/main/MA-Functional-Studio/MA-Dashboard1.png "Project 1 - MA Functional Studio Ltd.")</span>
 
 ### About
 In this folder I will present a project that I did for a small boutique training studio business.
