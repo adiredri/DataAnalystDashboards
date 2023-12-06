@@ -25,7 +25,7 @@ In this folder I will present a project I did as part of my degree in the BI cou
 
 ## <span style="blue">[Project 3 - MyFly Ltd.](https://public.tableau.com/app/profile/adir.edri/viz/MyFly/MyFlyDashboard "Project 3 - MyFly Ltd.]")</span>
 
-### about
+### About
 In this folder I will present a project I did for a new and small business in the field of basketball that just started in Tel Aviv. 
 The purpose of the business is to grow and develop to the level of branches all over the country, so the owner of the business contacted me with a request for visual and convenient tracking of his business data.
 
