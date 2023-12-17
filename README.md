@@ -32,5 +32,5 @@ The purpose of the business is to grow and develop to the level of branches all 
 ### Goals
 * Simulation of geographic distribution in order to examine the most active district and city.
 * Deriving economic conclusions from the segmentation of the data of the first period of the business.
-* KPI1 - reach the monthly income goals
-* KPI2 - improving the average income from the districts far from the business (south, north)
+* KPI1 - reach the monthly income goals.
+* KPI2 - improving the average income from the districts far from the business (south, north).
