@@ -12,7 +12,7 @@ In this folder I will present a project that I did for a small boutique training
 * Business strategy analysis and drawing economic conclusions.
 * KPI - monthly revenue and trend improvement.
 
-## <span style="blue">[Project 2 - ELTA Systems Ltd.](https://github.com/adiredri/DataAnalystDashboards/blob/main/ELTA%20Systems%20Ltd./ELTA-Dashboard1.png "Project 2 - ELTA Systems Ltd.")</span>
+## <span style="blue">[Project 2 - ELTA Systems Ltd.](https://github.com/adiredri/DataAnalystDashboards/blob/main/ELTA%20Systems%20Ltd/ELTA-Dashboard1.png "Project 2 - ELTA Systems Ltd.")</span>
 
 ### About
 In this folder I will present a project I did as part of my degree in the BI course, on data from my work at Alta Systems as a planning and project control engineer.
